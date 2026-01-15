@@ -10,6 +10,7 @@ function App() {
       <Navbar />
       <Container>
         <p> I am not sure yet</p>
+        <p> another paragraph</p>
       </Container>
      </Stack>
     
